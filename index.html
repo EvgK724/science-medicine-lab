@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#101114"><meta name="description" content="Разбор идей Science по-русски и английский B1–B2: 8 уроков, практика, повторение и британская учебная озвучка Ryan.">
+<meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="Science Lab">
+<title>Science · English Lab</title>
+<link rel="icon" href="./icon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="./apple-touch-icon.png"><link rel="manifest" href="./manifest.webmanifest"><link rel="stylesheet" href="./styles.css">
+<script src="./data.js" defer></script><script src="./app.js" defer></script>
+</head>
+<body><a class="skip-link" href="#main">К содержанию</a>
+<header class="app-header"><a class="brand" href="#lessons" aria-label="Science English Lab, уроки"><span class="brand-symbol" aria-hidden="true">S<span>·</span></span><span>SCIENCE<span class="brand-sub">ENGLISH LAB</span></span></a><button class="connection" id="connection" data-action="offline" aria-label="Статус автономной работы"><span class="status-dot"></span><span id="connection-label">Онлайн</span></button></header>
+<main id="main" tabindex="-1"></main>
+<nav class="bottom-nav" aria-label="Главная навигация"><div class="nav-inner">
+<a href="#lessons" data-nav="lessons"><span class="nav-icon" data-icon="book"></span><span>Уроки</span></a>
+<a href="#train" data-nav="train"><span class="nav-icon" data-icon="spark"></span><span>Тренировка</span></a>
+<a href="#review" data-nav="review"><span class="nav-icon" data-icon="repeat"></span><span>Повтор</span><span class="nav-badge" id="due-badge" hidden></span></a>
+<a href="#progress" data-nav="progress"><span class="nav-icon" data-icon="chart"></span><span>Прогресс</span></a>
+</div></nav>
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+<dialog id="info-dialog" class="modal"><div id="dialog-content"></div><button class="button secondary full" data-action="close-dialog">Закрыть</button></dialog>
+<audio id="lesson-audio" preload="none" hidden></audio>
+<input id="import-file" type="file" accept="application/json,.json" hidden>
+<noscript><div class="noscript">Для упражнений и сохранения прогресса включите JavaScript.</div></noscript>
+</body></html>

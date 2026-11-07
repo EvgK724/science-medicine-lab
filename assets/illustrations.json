@@ -1,0 +1,68 @@
+{
+  "notice": "Авторские концептуальные иллюстрации. Не экспериментальные данные и не изображения из журнала.",
+  "assets": {
+    "topic-ai": {
+      "src": "./assets/topic-ai.svg",
+      "alt": "Светящийся синий мозг из связанных точек рядом с карточкой клинического наблюдения.",
+      "type": "original-conceptual-illustration",
+      "notice": "Авторская иллюстрация, не экспериментальные данные"
+    },
+    "topic-biotech": {
+      "src": "./assets/topic-biotech.svg",
+      "alt": "Шесть светящихся узлов вокруг лабораторной колбы: образ команды AI-агентов.",
+      "type": "original-conceptual-illustration",
+      "notice": "Авторская иллюстрация, не экспериментальные данные"
+    },
+    "topic-echo": {
+      "src": "./assets/topic-echo.svg",
+      "alt": "Условный силуэт мыши рядом с электронным чипом и оранжевым импульсом.",
+      "type": "original-conceptual-illustration",
+      "notice": "Авторская иллюстрация, не экспериментальные данные"
+    },
+    "topic-mitochondria": {
+      "src": "./assets/topic-mitochondria.svg",
+      "alt": "Синяя митохондрия с янтарными складками и условными порами мембраны.",
+      "type": "original-conceptual-illustration",
+      "notice": "Авторская иллюстрация, не экспериментальные данные"
+    },
+    "topic-rna": {
+      "src": "./assets/topic-rna.svg",
+      "alt": "Извилистая цепочка RNA и янтарная белковая форма на фоне клеток.",
+      "type": "original-conceptual-illustration",
+      "notice": "Авторская иллюстрация, не экспериментальные данные"
+    },
+    "topic-crows": {
+      "src": "./assets/topic-crows.svg",
+      "alt": "Чёрная ворона с синими бликами наблюдает два условных варианта выбора.",
+      "type": "original-conceptual-illustration",
+      "notice": "Авторская иллюстрация, не экспериментальные данные"
+    },
+    "topic-glaciers": {
+      "src": "./assets/topic-glaciers.svg",
+      "alt": "Гранёный голубой ледник в тёмной воде под небольшим янтарным солнцем.",
+      "type": "original-conceptual-illustration",
+      "notice": "Авторская иллюстрация, не экспериментальные данные"
+    },
+    "topic-botox": {
+      "src": "./assets/topic-botox.svg",
+      "alt": "Стеклянный флакон без маркировки, условная молекула и линия истории открытий.",
+      "type": "original-conceptual-illustration",
+      "notice": "Авторская иллюстрация, не экспериментальные данные"
+    },
+    "topic-bootloops": {
+      "src": "./assets/topic-bootloops.svg",
+      "alt": "Синяя сеть клеточных форм и янтарная сеть алгоритмических узлов соединены петлёй обмена идеями.",
+      "type": "original-conceptual-illustration",
+      "notice": "Авторская иллюстрация, не экспериментальные данные"
+    },
+    "hero-lab": {
+      "src": "./assets/hero-lab.webp",
+      "alt": "Синяя стеклянная клетка с янтарными внутренними структурами и светящимися связями на тёмном фоне.",
+      "type": "original-AI-generated-conceptual-illustration",
+      "notice": "Авторская иллюстрация, не экспериментальные данные",
+      "width": 1672,
+      "height": 941,
+      "bytes": 221644
+    }
+  }
+}
